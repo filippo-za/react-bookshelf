@@ -10,10 +10,10 @@ My first application written in React Js. We have an input where you can search 
 
 ## Technologies used
 
-HTML5
-CSS3
-JAVA SCRIPT ES6
-REACT
-BOOTSTRAP
-FONT AWESOME
-GOOGLE FONTS
+- HTML5
+- CSS3
+- JAVA SCRIPT ES6
+- REACT
+- BOOTSTRAP
+- FONT AWESOME
+- GOOGLE FONTS
