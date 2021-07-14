@@ -1,0 +1,38 @@
+.navbar {
+  height: 75px;
+}
+
+.navbar-brand {
+  margin-left: 30px;
+  letter-spacing: 3px;
+  font-family: "Kotta One", serif;
+  font-size: 27px;
+}
+
+.navbar_link {
+  color: #fff;
+  text-decoration: none;
+}
+
+.navbar_link:hover {
+  color: #fff;
+}
+
+.fa-google {
+  font-size: 30px;
+  color: rgba(245, 7, 7, 0.808);
+  display: inline-block;
+  position: fixed;
+  top: 25px;
+  left: 90%;
+}
+
+@media screen and (max-width: 728px) {
+  .navbar-brand {
+    margin-left: 3px;
+  }
+
+  .fa-google {
+    margin-right: 2;
+  }
+}
