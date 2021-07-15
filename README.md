@@ -12,7 +12,7 @@ My first application written in React Js. We have an input where you can search 
 
 - HTML5
 - CSS3
-- JAVA SCRIPT ES6
+- JAVA SCRIPT 
 - REACT
 - BOOTSTRAP
 - FONT AWESOME
