@@ -1,4 +1,4 @@
-# BOOKSHELF -  bookshelf-app-c539e.firebaseapp.com
+# BOOKSHELF - https://bookshelf-app-c539e.firebaseapp.com/
 
 ## Info
 
